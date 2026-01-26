@@ -1,0 +1,21 @@
+# BUG-001 – Carrinho redireciona para login após adicionar produto
+
+## Ambiente
+Web – Brave / Ambiente de Testes
+
+## Pré-condição
+Usuário cadastrado e autenticado no sistema
+
+## Passos para reprodução
+1. Acessar a tela de login
+2. Inserir credenciais válidas
+3. Acessar a tela de produtos
+4. Acessar o produto "Sauce Labs Backpack"
+5. Adicionar o produto ao carrinho
+6. Clicar no ícone do carrinho no header
+
+## Resultado esperado
+O sistema deve redirecionar o usuário para a página do carrinho mantendo a sessão ativa
+
+## Resultado obtido
+O sistema redireciona o usuário para a tela de login solicitando autenticação novamente
