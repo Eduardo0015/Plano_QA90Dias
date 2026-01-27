@@ -1,0 +1,18 @@
+#BUG-001 - Sistema bloqueia acesso de usuário com credenciais válidas
+
+# Ambiente
+Navegador Brave / Ambiente de testes
+
+# Pré-condições
+Usuário cadastrado previamente no sistema
+
+#Passos para reproduzir
+1. Acessar sistema
+2. Acessar tela de login
+3. Inserir credenciais de usuário válidas
+
+#Resultado esperado
+O sistema autentica e permite acesso ao usuário
+
+#Resultado obtido
+O sistema exibe mensagem de erro informando que o usuário foi bloqueado.

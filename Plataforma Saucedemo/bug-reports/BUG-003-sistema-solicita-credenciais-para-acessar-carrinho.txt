@@ -1,0 +1,19 @@
+# BUG-003 - Sistema solicita credenciais para acessar o carrinho
+
+# Ambiente
+Navegador Brave / Ambiente de testes
+
+# Pré-condições
+Usuário previamente cadastrado no sistema
+
+# Passos para reproduzir
+1. Acessar sistema
+2. Acessar tela de login 
+3. Inserir credenciais de usuário válidas
+4. Acessar página do carrinho
+
+# Resultado esperado
+O sistema exibe todos os produtos contidos no carrinho
+
+# Resultado obtido
+O sistema solicita as credenciais válidas de usuário novamente
