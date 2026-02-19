@@ -17,3 +17,12 @@ O sistema exibe todos os produtos contidos no carrinho
 
 # Resultado obtido
 O sistema solicita as credenciais válidas de usuário novamente
+
+# Severidade
+Média
+
+# Prioridade
+Média
+
+# Status
+Falhou

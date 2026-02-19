@@ -1,0 +1,7 @@
+# Risco em não possuir opção de recuperação de acesso
+
+Em um dos casos de teste, foi documentado que o sistema atualmente não possui funcionalidade para recuperação de credenciais em caso de perda de senha.
+
+A ausência desse recurso representa um risco direto ao negócio, pois usuários que perdem o acesso tendem a abandonar o sistema em vez de criar novas credenciais, optando por soluções concorrentes que ofereçam uma experiência mais amigável.
+
+Recomenda-se a implementação de um mecanismo de recuperação de acesso (ex.: redefinição de senha via e-mail) como forma de reduzir churn, melhorar a experiência do usuário e manter competitividade no mercado.

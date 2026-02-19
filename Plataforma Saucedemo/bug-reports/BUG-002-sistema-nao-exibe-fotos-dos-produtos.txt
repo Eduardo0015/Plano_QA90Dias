@@ -1,7 +1,7 @@
 # BUG-002 - Sistema não exibe foto do produto vendido
 
 # Ambiente
-Navegador Brave / Ambiente de testes
+Navegador Brave 1.86 / Ambiente de testes
 
 #Pré-condições
 Usuáio previamente cadastrado no sistema
@@ -17,3 +17,12 @@ O sistema exibe fotos e informações de todos os produtos vendidos
 
 # Resultado obtido
 O sistema exibe fotos de cachorro em todos os produtos
+
+# Severidade
+Baixa
+
+# Prioridade
+Baixa
+
+# Status
+Falhou

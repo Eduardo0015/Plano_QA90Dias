@@ -1,0 +1,29 @@
+# BUG-003 - Sistema permite compras com carrinho vazio
+
+# Ambiente
+Navegador Brave 1.86 / Windows 10 / Saucedemo
+
+# Pré-condições
+Utilizar o usuário "standart_user" previamente cadastrado no sistema
+
+# Passos para reproduzir
+1. Acessar sistema 
+2. Acessar tela de login 
+3. Inserir credenciais de usuário válidas 
+4. Acessar página do carrinho 
+5. Finalizar a compra com o carrinho vazio
+
+# Resultado Esperado
+O sistema irá impedir que a compra seja finalizada quando o carrinho está vazio
+
+# Resultado obtido
+O sistema finaliza a compra, mesmo com o carrinho vazio
+
+# Severidade
+Baixa
+
+# Prioridade
+Baixa
+
+# Status
+Falhou

@@ -11,8 +11,8 @@ Usuário cadastrado previamente no sistema
 2. Acessar tela de login
 3. Inserir credenciais de usuário válidas
 
-#Resultado esperado
+# Resultado esperado
 O sistema autentica e permite acesso ao usuário
 
-#Resultado obtido
+# Resultado obtido
 O sistema exibe mensagem de erro informando que o usuário foi bloqueado.

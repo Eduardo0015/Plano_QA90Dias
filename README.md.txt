@@ -11,3 +11,4 @@ com foco em testes manuais, documentação e ferramentas.
 - Jira
 - Git / GitHub
 - Postman
+- Cypress
